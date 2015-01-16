@@ -1,15 +1,21 @@
-# Awesome FEM 
+Awesome FEM
+===========
+
+Intoduction
+-----------
 
 A curated list of awesome Finite Element Modeling frameworks, libraries and software.
 
-- [Awesome FEM](#awesome-python)
-    - [Open-Source](#open-source)
-    - [Proprietary] (#proprietary) 
+Table of Contents
+-----------------
+
+- [FEM](#awesome-fem)
 - [Tools](#tools)
+    - [Pre- Post-Processing](#pre--post-processing)
     - [Text Editors](#test-editors)
-    - [Chart Digitizers](chart-digitizers)
+    - [Chart Digitizers](#chart-digitizers)
     - [Graphics-related Tools](#graphic-related-tools)
-    - [CAD Import](#cad-importer)
+    - [CAD Import](#cad-import)
     - [File Managment](#file-managment)
 - [Resources](#resources)
     - [Websites](#websites)
@@ -17,16 +23,20 @@ A curated list of awesome Finite Element Modeling frameworks, libraries and soft
     - [Twitter](#twitter)
 - [Contributing](#contributing)
 
+### Legends
+
+*O - for Open-Source*
+*P - for Proprietary*
+
 ---
 
-## Open-Source
 
-## Proprietary 
-
-* [ANSYS] (http://www.ansys.com) - Simulation-Driven Product Development.
+* *P* [ANSYS] (http://www.ansys.com) - Simulation-Driven Product Development.
 
 # Tools
 
+## Pre- Post-Processing
+* *O* [SALOME] (http://www.salome-platform.org/) -  
 ## Test Editors
 ## Chart Digitizers
 ## Graphic-related Tools
