@@ -5,7 +5,12 @@ A curated list of awesome Finite Element Modeling frameworks, libraries and soft
 - [Awesome FEM](#awesome-python)
     - [Open-Source](#open-source)
     - [Proprietary] (#proprietory) 
-    - [Editor Plugins](#editor-plugins)
+- [Tools](#tools)
+    - [Text Editors]()
+    - [Chart Digitizers]()
+    - [Graphics-related Tools]()
+    - [CAD Import]()
+    - [File Managment]()
 - [Resources](#resources)
     - [Websites](#websites)
     - [Weekly](#weekly)
@@ -18,11 +23,7 @@ A curated list of awesome Finite Element Modeling frameworks, libraries and soft
 
 ## Proprietary
 
-## Editor Plugins 
-
-*Plugins for editors*
-
-* [PyRun](https://www.egenix.com/products/python/PyRun/) - A one-file, no-installation-needed version of Python.
+* [ANSYS] (https://www.ansys.com) - Simulation-Driven Product Development.
 
 # Resources
 
