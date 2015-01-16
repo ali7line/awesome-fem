@@ -4,13 +4,13 @@ A curated list of awesome Finite Element Modeling frameworks, libraries and soft
 
 - [Awesome FEM](#awesome-python)
     - [Open-Source](#open-source)
-    - [Proprietary] (#proprietory) 
+    - [Proprietary] (#proprietary) 
 - [Tools](#tools)
-    - [Text Editors]()
-    - [Chart Digitizers]()
-    - [Graphics-related Tools]()
-    - [CAD Import]()
-    - [File Managment]()
+    - [Text Editors](#test-editors)
+    - [Chart Digitizers](chart-digitizers)
+    - [Graphics-related Tools](#graphic-related-tools)
+    - [CAD Import](#cad-importer)
+    - [File Managment](#file-managment)
 - [Resources](#resources)
     - [Websites](#websites)
     - [Weekly](#weekly)
@@ -21,9 +21,17 @@ A curated list of awesome Finite Element Modeling frameworks, libraries and soft
 
 ## Open-Source
 
-## Proprietary
+## Proprietary 
 
-* [ANSYS] (https://www.ansys.com) - Simulation-Driven Product Development.
+* [ANSYS] (http://www.ansys.com) - Simulation-Driven Product Development.
+
+# Tools
+
+## Test Editors
+## Chart Digitizers
+## Graphic-related Tools
+## CAD Import
+## File Managment
 
 # Resources
 
