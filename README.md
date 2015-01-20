@@ -35,28 +35,11 @@ Table of Contents
 * [CalculiX](http://www.calculix.de/)*(C++)* - *"MTU Aero Engine"* : 3D Structural (uses abaqus input formatl).
 * [Code_Aster](http://www.code-aster.org/)*(Python)* : A full range of multiphysical analysis and modelling methods.
 * [Elmer]()*(C/C++/F90)* - *"Finnish Ministry of Education"* : Multiphysics simulation.  
-* [BASIN](http://homepage.usask.ca/~ijm451/finite/fe_resources/node144.html)*()* - *""* : 
-* [DANSOFT](http://homepage.usask.ca/~ijm451/finite/fe_resources/node147.html)*()* - *""* : 
-* [DOLFIN](http://homepage.usask.ca/~ijm451/finite/fe_resources/node149.html)*()* - *""* : 
-* [DOUG](http://homepage.usask.ca/~ijm451/finite/fe_resources/node150.html)*()* - *""* : 
-* [EMAP](http://homepage.usask.ca/~ijm451/finite/fe_resources/node153.html)*()* - *""* : 
-* [EXPDE](http://homepage.usask.ca/~ijm451/finite/fe_resources/node154.html)*()* - *""* : 
-* [FEATFLOW](http://homepage.usask.ca/~ijm451/finite/fe_resources/node155.html)*()* - *""* : 
-* [FeaTrue](http://homepage.usask.ca/~ijm451/finite/fe_resources/node156.html)*()* - *""* : 
-* [FEC](http://homepage.usask.ca/~ijm451/finite/fe_resources/node157.html)*()* - *""* : 
-* [FELT](http://homepage.usask.ca/~ijm451/finite/fe_resources/node159.html)*()* - *""* : 
-* [FELyx](http://homepage.usask.ca/~ijm451/finite/fe_resources/node160.html)*()* - *""* : 
-* [FEM](http://homepage.usask.ca/~ijm451/finite/fe_resources/node161.html)*()* - *""* : 
-* [FEM_Object](http://homepage.usask.ca/~ijm451/finite/fe_resources/node163.html)*()* - *""* : 
-* [FEMLAB-2D](http://homepage.usask.ca/~ijm451/finite/fe_resources/node164.html)*()* - *""* : 
-* [FEMLIB](http://homepage.usask.ca/~ijm451/finite/fe_resources/node165.html)*()* - *""* : 
-* [FemLisp](http://homepage.usask.ca/~ijm451/finite/fe_resources/node166.html)*()* - *""* : 
-* [FEMM](http://homepage.usask.ca/~ijm451/finite/fe_resources/node167.html)*()* - *""* : 
-* [FEMOctave](http://homepage.usask.ca/~ijm451/finite/fe_resources/node168.html)*()* - *""* : 
-* [FEMSET](http://homepage.usask.ca/~ijm451/finite/fe_resources/node169.html)*()* - *""* : 
-* [FMS-1D](http://homepage.usask.ca/~ijm451/finite/fe_resources/node170.html)*()* - *""* : 
-* [FFEP]()*()* - *""* : 
-* [GeoCrack](http://homepage.usask.ca/~ijm451/finite/fe_resources/node173.html)*()* - *""* : 
+* [FEATFLOW](http://www.featflow.de/)*(F77)* - *""* : solution of the incompressible Navier-Stokes equations.
+* [FELT](http://felt.sourceforge.net/)*(C)* - *""* : for problems in linear statics and linear dynamics.
+* [FELyx](http://felyx.sourceforge.net/)*(C++)* - *""* : object oriented.
+* [FemLisp](http://www.femlisp.org/)*(LISP)* - *""* : solving partial differential equations.
+* [FEMOctave](https://ideas.repec.org/c/cod/octave/c090801.html)*()* - *""* : It solves second order differential equations in two variables.
 * [FEBio](http://febio.org/source-code-request/)*()* - *"University of Utah"* : for Biomechanics.
 * [FEniCS Project](http://fenicsproject.org/)*(C++/Python)* - *"University of Chicago"* : Enable automated solution of differential equations.([getHere](http://fenicsproject.org/download/))
 * [FreeFEM++](http://www.freefem.org/ff++/index.htm)*(C++)* - *""* : Rapid testing and simulation using variational formulation focused in solving partial differential equations.
@@ -78,6 +61,9 @@ Table of Contents
 * [dealii](https://github.com/dealii/dealii)*(C++)* : The development repository for the deal.II finite element library.
 * [lifev](https://github.com/lifev/lifev)*(C++)* :  Parallel finite element library for the solution of PDE.
 * [DUNE](http://www.dune-project.org/)*(C++)* - *"Heidelberg University"* : Modular library for the solution of partial differential equations using grid-based methods.
+* [FEC](ftp://ftp.math.uh.edu/pub/Math/)*(C++)* - *"University of Houston"* : 2D and 3D FE library.
+* [FFEP](http://ffep.sourceforge.net/)*(C)* - *""* : library of routines.
+* [FEMSET](http://www.rzbt.haw-hamburg.de/dnksoft/cammpus/femset.html/)*(C)* - *""* : library of routines.
 * [Hermes Project](http://www.hpfem.org/hermes/)*(C++/Python)* - *""* : Rapid development of space and space-time hp-FEM solvers.([gitHere](https://github.com/hpfem/hermes))
 * [SCOREC Core](https://github.com/SCOREC/core)*(C++)* - *"Rensslaer Ploytechnic Institude"* : The SCOREC Core is a set of C/C++ libraries for unstructured mesh simulations on supercomputers. 
 * [YAFEL](https://github.com/tjolsen/YAFEL)*(C++)* - *""* : Yet Another Finite Element Library. 
